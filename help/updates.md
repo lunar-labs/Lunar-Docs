@@ -14,3 +14,4 @@ You can follow the second, third and fourth way to get notified about our new up
 
 * You can follow our [**Blog**](https://medium.com/lunarbot) by clicking on the "**Follow**" button in the left corner.
 * You can also follow our [**Twitter**](https://twitter.com/botlunar) account by clicking the "**Follow**" button on the right.
+
