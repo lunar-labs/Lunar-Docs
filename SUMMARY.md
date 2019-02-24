@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Lunar - Discord Bot](README.md)
+* [Getting Started](getting-started.md)
 

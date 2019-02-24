@@ -8,8 +8,7 @@ Our goal was and still is, to provide every botuser an all-in bot so he doesn't 
 
 We released our own [**website** ](http://lunar-labs.io)including the dashboard on **Launch** and it offers you a place where you can set up almost all settings of the bot via your browser!
 
-If you are a **new** user of Lunar, I would advise you to read on 
-
-{% page-ref page="getting-started.md" %}
+If you are a **new** user of Lunar, I would advise you to read on
 
 so that you will **quickly** become familiar with Lunar!
+
