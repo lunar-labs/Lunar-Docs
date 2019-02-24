@@ -11,6 +11,7 @@
 
 * [Support](help/support.md)
 * [Social Media](help/social-media.md)
+* [Updates](help/updates.md)
 * [Trello](help/trello.md)
 
 ## Tutorials
