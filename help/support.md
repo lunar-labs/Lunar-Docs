@@ -6,15 +6,15 @@ There is more than one possibility to receive support. Here is a list of all sup
 * [Ticket on our support Discord Server](support.md#create-a-ticket-on-our-support-discord-server)
 * [Documentation](support.md#read-through-our-documentation)
 
-### Support Discord Server
+## Support Discord Server
 
 We set up a discord server where you can discuss with users of our Bot and ask all your questions that you have. We offer support in all languages, which are also available for LenoxBot.
 
 [![](https://discordapp.com/api/guilds/541798716995141642/embed.png?style=banner3)](https://discord.gg/TTndSaf)
 
-### Create a ticket on our Support Discord server
+## Create a ticket on our Support Discord server
 
-You can create a ticket on our Support Discord Server. Our Staff will receive the ticket and answer you as fast as possible! 
+You can create a ticket on our Support Discord Server. Our Staff will receive the ticket and answer you as fast as possible!
 
 **How to create a ticket?**
 
@@ -24,4 +24,3 @@ You can create a ticket on our Support Discord Server. Our Staff will receive th
 
 You will receive a direct message on discord from one of our staff members. so please make sure that you activated the following setting for our Discord Server:
 
-![Discord server privacy settings]()

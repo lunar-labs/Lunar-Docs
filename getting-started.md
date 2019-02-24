@@ -11,6 +11,7 @@ We own a website that offers you a complete dashboard with many features. Read m
 ## Support
 
 If you ever need support, you can read the following page:
+
 {% page-ref page="help/support.md" %}
 
 ## How to earn credits?

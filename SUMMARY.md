@@ -10,6 +10,7 @@
 ## Help
 
 * [Support](help/support.md)
+* [Social Media](help/social-media.md)
 * [Trello](help/trello.md)
 
 ## Tutorials
