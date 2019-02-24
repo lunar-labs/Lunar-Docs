@@ -9,6 +9,7 @@
 
 ## Help
 
+* [Support](help/support.md)
 * [Trello](help/trello.md)
 
 ## Tutorials
